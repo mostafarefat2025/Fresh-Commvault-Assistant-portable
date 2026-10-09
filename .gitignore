@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Licensed Commvault installation media must be obtained from the organization.
+WinX64/
+
+# Environment-specific CommServe configuration.
+config.py
+
+# Generated PyInstaller/build artifacts.
+build/
+build_*/
+dist/
+dist_*/
+release/
+*.spec
